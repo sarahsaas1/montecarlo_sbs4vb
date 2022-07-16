@@ -2,7 +2,7 @@
 
 # Metadata 
 
-# Sarah Saas Monte Carlo Simulator
+## Sarah Saas Monte Carlo Simulator
 
 # Synopsis
 
