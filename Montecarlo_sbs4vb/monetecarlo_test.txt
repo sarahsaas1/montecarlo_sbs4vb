@@ -1,0 +1,11 @@
+test_change_die (__main__.dieTestSuite) ... ok
+test_jackpot (__main__.dieTestSuite) ... ok
+test_play (__main__.dieTestSuite) ... ok
+test_roll_die (__main__.dieTestSuite) ... ok
+test_show_die (__main__.dieTestSuite) ... ok
+test_show_recent (__main__.dieTestSuite) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.022s
+
+OK
